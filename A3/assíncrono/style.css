@@ -1,0 +1,11 @@
+
+
+.box{
+  width: 200px;
+  height: 100px;
+  padding: 40px;
+  border: 30px solid #333;
+  margin: 80px;
+  background-color: #21c41b;
+  box-sizing: content-box
+}
